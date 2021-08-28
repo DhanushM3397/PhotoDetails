@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">PhotoDetails</string>
+    <string-array name="orderName">
+        <item>---select Order---</item>
+        <item>Own Order</item>
+        <item>Sub Order</item>
+    </string-array>
+    <string-array name="days">
+        <item>---select days---</item>
+        <item>One Day Event</item>
+        <item> More than One Day Event</item>
+
+    </string-array>
+    <string name="title_activity_photo_detail_display">PhotoDetailDisplay</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="default_notification_channel_id" translatable="false">fcm_default_channel</string>
+</resources>
